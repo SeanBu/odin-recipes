@@ -23,6 +23,15 @@
     font-size: 20px;
 }
 
+.main-image{
+    width: 750px;
+    height: auto;
+}
+
 body{
     background-color: grey;
+}
+
+button{
+    font-size: 40px;
 }
